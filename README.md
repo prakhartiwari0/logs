@@ -17,8 +17,8 @@ Learned the basics of Testing in JS
 </details>
 
 <!-- 
-____________________________________________
 TEMPLATE OF LOG
+____________________________________________
 
 <details>
 <summary>
@@ -30,10 +30,10 @@ Summary
 - Learnings
 
 </details>
-
+____________________________________________
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2OTIzMjI1LDU5MzAyMjc1LDkwNjY0Mj
-ExMywyMDI1NDk2MDU2LC00NDAyMDcyNTYsMTIwMDE3NjAyMF19
-
+eyJoaXN0b3J5IjpbLTEyNzEyODM1OTUsNTkzMDIyNzUsOTA2Nj
+QyMTEzLDIwMjU0OTYwNTYsLTQ0MDIwNzI1NiwxMjAwMTc2MDIw
+XX0=
 -->

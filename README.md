@@ -5,7 +5,7 @@ This is the repository where I will be logging everything I'm learning in tech.
 <summary>
 
 ## 4 Sep 2023
-
+Learned the basics of Testing in JS
 </summary>
 
 **The Odin Project**
@@ -17,7 +17,7 @@ This is the repository where I will be logging everything I'm learning in tech.
 
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTQxMzY1LDU5MzAyMjc1LDkwNjY0Mj
-ExMywyMDI1NDk2MDU2LC00NDAyMDcyNTYsMTIwMDE3NjAyMF19
-
+eyJoaXN0b3J5IjpbLTM5MDA2NDMxOSw1OTMwMjI3NSw5MDY2ND
+IxMTMsMjAyNTQ5NjA1NiwtNDQwMjA3MjU2LDEyMDAxNzYwMjBd
+fQ==
 -->

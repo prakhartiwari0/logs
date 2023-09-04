@@ -3,8 +3,11 @@ This is the repository where I will be logging everything I'm learning in tech.
 
 <details>
 <summary>
+
 ## 04 Sep 2023
+
 Learned the basics of Testing in JS
+
 </summary>
 
 **The Odin Project**
@@ -24,7 +27,7 @@ ____________________________________________
 <summary>
 ## DD MMM YYYY
 Summary
-</summary>
+</summary>l
 
 **Group**
 - Learnings
@@ -33,7 +36,7 @@ Summary
 ____________________________________________
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzEyODM1OTUsNTkzMDIyNzUsOTA2Nj
-QyMTEzLDIwMjU0OTYwNTYsLTQ0MDIwNzI1NiwxMjAwMTc2MDIw
-XX0=
+eyJoaXN0b3J5IjpbLTQ0MTMzMjc3NSwtMTI3MTI4MzU5NSw1OT
+MwMjI3NSw5MDY2NDIxMTMsMjAyNTQ5NjA1NiwtNDQwMjA3MjU2
+LDEyMDAxNzYwMjBdfQ==
 -->

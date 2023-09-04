@@ -1,8 +1,12 @@
 # What's this?
 This is the repository where I will be logging everything I'm learning in tech.
 
+<details>
+<summary>
 
 ## 4 Sep 2023
+
+</summary>
 
 **The Odin Project**
  - Completed [Testing Basics](https://www.theodinproject.com/lessons/node-path-javascript-testing-basics)
@@ -11,7 +15,9 @@ This is the repository where I will be logging everything I'm learning in tech.
 	- 3.  Read and follow the  [Getting Started](https://jestjs.io/docs/getting-started)  tutorial on the main Jest website.
 	- 4.  Read and follow the  [Using Matchers](https://jestjs.io/docs/using-matchers)  document on the main Jest website. This one demonstrates some of the other useful functions you can use in your tests.
 
+</details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzMDIyNzUsOTA2NjQyMTEzLDIwMjU0OT
-YwNTYsLTQ0MDIwNzI1NiwxMjAwMTc2MDIwXX0=
+eyJoaXN0b3J5IjpbMTkyMTQxMzY1LDU5MzAyMjc1LDkwNjY0Mj
+ExMywyMDI1NDk2MDU2LC00NDAyMDcyNTYsMTIwMDE3NjAyMF19
+
 -->

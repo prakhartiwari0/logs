@@ -24,6 +24,7 @@ Learned the basics of Testing in JS
 
 ## 20 SEP 2023
 Learned about Props in React, Currying in JS
+
 </summary>l
 
 **Group**
@@ -57,7 +58,7 @@ Summary
 ____________________________________________
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDAzMjMwMjIsLTQ0MTMzMjc3NSwtMT
-I3MTI4MzU5NSw1OTMwMjI3NSw5MDY2NDIxMTMsMjAyNTQ5NjA1
-NiwtNDQwMjA3MjU2LDEyMDAxNzYwMjBdfQ==
+eyJoaXN0b3J5IjpbLTE4NzY1MzQ3MiwtNDQxMzMyNzc1LC0xMj
+cxMjgzNTk1LDU5MzAyMjc1LDkwNjY0MjExMywyMDI1NDk2MDU2
+LC00NDAyMDcyNTYsMTIwMDE3NjAyMF19
 -->

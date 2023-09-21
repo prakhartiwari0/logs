@@ -35,12 +35,14 @@ Learned about Props in React, Currying in JS, State in Programming & ReactJS, an
 <summary>
 
 ## 21 SEP 2023
-Learned about State, Hooks. Got into some deeper concepts of React like Reconciliation, React Fiber Architecture 
+Learned about State, Hooks. Got into some deeper concepts of React like Reconciliation, [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) 
 
 </summary>
 
-**Group**
-- Learnings
+**React**
+- https://react.dev/learn/state-a-components-memory
+- [Why you need hooks and project](https://www.youtube.com/watch?v=lI7IIOWM0Mo&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&index=5&pp=iAQB) - @chairaurcode
+- 06 Virtual DOM, Fibre and reconciliation
 
 </details>
 
@@ -68,8 +70,8 @@ Summary
 ____________________________________________
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDE5MDkxNTgsMTQ3MDY4MDY5NiwxOT
-UxMjcyMDMyLC0xOTgwMTU0MjU1LC0xODc2NTM0NzIsLTQ0MTMz
-Mjc3NSwtMTI3MTI4MzU5NSw1OTMwMjI3NSw5MDY2NDIxMTMsMj
-AyNTQ5NjA1NiwtNDQwMjA3MjU2LDEyMDAxNzYwMjBdfQ==
+eyJoaXN0b3J5IjpbMzA2Nzc4NDA2LDE0NzA2ODA2OTYsMTk1MT
+I3MjAzMiwtMTk4MDE1NDI1NSwtMTg3NjUzNDcyLC00NDEzMzI3
+NzUsLTEyNzEyODM1OTUsNTkzMDIyNzUsOTA2NjQyMTEzLDIwMj
+U0OTYwNTYsLTQ0MDIwNzI1NiwxMjAwMTc2MDIwXX0=
 -->

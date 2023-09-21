@@ -27,6 +27,8 @@ Learned about Props in React, Currying in JS, State in Programming & ReactJS, an
 
 </summary>
 
+- https://www.theodinproject.com/lessons/node-path-react-new-passing-data-between-components
+- https://react.dev/learn/passing-props-to-a-component
 
 </details>
 
@@ -41,8 +43,8 @@ Learned about State, Hooks. Got into some deeper concepts of React like Reconcil
 
 **React**
 - https://react.dev/learn/state-a-components-memory
-- [Why you need hooks and project](https://www.youtube.com/watch?v=lI7IIOWM0Mo&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&index=5&pp=iAQB) - @chairaurcode
-- 06 Virtual DOM, Fibre and reconciliation
+- [Why you need hooks and project](https://www.youtube.com/watch?v=lI7IIOWM0Mo&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&index=5&pp=iAQB)
+- [06 Virtual DOM, Fibre and reconciliation](https://youtu.be/MPCVGFvgVEQ?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige)
 
 </details>
 
@@ -70,8 +72,8 @@ Summary
 ____________________________________________
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2Nzc4NDA2LDE0NzA2ODA2OTYsMTk1MT
-I3MjAzMiwtMTk4MDE1NDI1NSwtMTg3NjUzNDcyLC00NDEzMzI3
-NzUsLTEyNzEyODM1OTUsNTkzMDIyNzUsOTA2NjQyMTEzLDIwMj
-U0OTYwNTYsLTQ0MDIwNzI1NiwxMjAwMTc2MDIwXX0=
+eyJoaXN0b3J5IjpbMTM1MDQyMTE4MCwxNDcwNjgwNjk2LDE5NT
+EyNzIwMzIsLTE5ODAxNTQyNTUsLTE4NzY1MzQ3MiwtNDQxMzMy
+Nzc1LC0xMjcxMjgzNTk1LDU5MzAyMjc1LDkwNjY0MjExMywyMD
+I1NDk2MDU2LC00NDAyMDcyNTYsMTIwMDE3NjAyMF19
 -->

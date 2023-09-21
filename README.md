@@ -23,12 +23,10 @@ Learned the basics of Testing in JS
 <summary>
 
 ## 20 SEP 2023
-Learned about Props in React, Currying in JS, State in Programming & ReactJS, Hooks in ReactJS
+Learned about Props in React, Currying in JS, State in Programming & ReactJS, and a started Hooks in ReactJS
 
-</summary>l
+</summary>
 
-**Group**
-- Learnings
 
 </details>
 
@@ -49,7 +47,7 @@ ____________________________________________
 ## DD MMM YYYY
 Summary
 
-</summary>l
+</summary>
 
 **Group**
 - Learnings
@@ -58,8 +56,8 @@ Summary
 ____________________________________________
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTI3MjAzMiwtMTk4MDE1NDI1NSwtMT
-g3NjUzNDcyLC00NDEzMzI3NzUsLTEyNzEyODM1OTUsNTkzMDIy
-NzUsOTA2NjQyMTEzLDIwMjU0OTYwNTYsLTQ0MDIwNzI1NiwxMj
-AwMTc2MDIwXX0=
+eyJoaXN0b3J5IjpbMTQ3MDY4MDY5NiwxOTUxMjcyMDMyLC0xOT
+gwMTU0MjU1LC0xODc2NTM0NzIsLTQ0MTMzMjc3NSwtMTI3MTI4
+MzU5NSw1OTMwMjI3NSw5MDY2NDIxMTMsMjAyNTQ5NjA1NiwtND
+QwMjA3MjU2LDEyMDAxNzYwMjBdfQ==
 -->

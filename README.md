@@ -31,6 +31,18 @@ Learned about Props in React, Currying in JS, State in Programming & ReactJS, an
 </details>
 
 
+<details>
+<summary>
+
+## 21 SEP 2023
+Learned about State, Hooks. Got into some deeper concepts of React like Reconciliation, React Fiber Architecture 
+
+</summary>
+
+**Group**
+- Learnings
+
+</details>
 
 <!-- 
 
@@ -56,8 +68,8 @@ Summary
 ____________________________________________
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDY4MDY5NiwxOTUxMjcyMDMyLC0xOT
-gwMTU0MjU1LC0xODc2NTM0NzIsLTQ0MTMzMjc3NSwtMTI3MTI4
-MzU5NSw1OTMwMjI3NSw5MDY2NDIxMTMsMjAyNTQ5NjA1NiwtND
-QwMjA3MjU2LDEyMDAxNzYwMjBdfQ==
+eyJoaXN0b3J5IjpbLTExMDE5MDkxNTgsMTQ3MDY4MDY5NiwxOT
+UxMjcyMDMyLC0xOTgwMTU0MjU1LC0xODc2NTM0NzIsLTQ0MTMz
+Mjc3NSwtMTI3MTI4MzU5NSw1OTMwMjI3NSw5MDY2NDIxMTMsMj
+AyNTQ5NjA1NiwtNDQwMjA3MjU2LDEyMDAxNzYwMjBdfQ==
 -->

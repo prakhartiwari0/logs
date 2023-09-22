@@ -48,6 +48,23 @@ Learned about State, Hooks. Got into some deeper concepts of React like Reconcil
 
 </details>
 
+
+<details>
+<summary>
+
+## 22 SEP 2023
+Continued learning about State in React JS.
+
+</summary>
+
+**ReactJS**
+- Completed  [Introduction to State](https://www.theodinproject.com/lessons/node-path-react-new-introduction-to-state)
+- https://react.dev/learn/state-a-components-memory
+- https://react.dev/learn/render-and-commit
+- https://medium.com/javarevisited/react-reconciliation-algorithm-86e3e22c1b40
+
+</details>
+
 <!-- 
 
 ____________________________________________
@@ -72,8 +89,9 @@ Summary
 ____________________________________________
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDQyMTE4MCwxNDcwNjgwNjk2LDE5NT
-EyNzIwMzIsLTE5ODAxNTQyNTUsLTE4NzY1MzQ3MiwtNDQxMzMy
-Nzc1LC0xMjcxMjgzNTk1LDU5MzAyMjc1LDkwNjY0MjExMywyMD
-I1NDk2MDU2LC00NDAyMDcyNTYsMTIwMDE3NjAyMF19
+eyJoaXN0b3J5IjpbODQ3NTI0OTcyLDEzNTA0MjExODAsMTQ3MD
+Y4MDY5NiwxOTUxMjcyMDMyLC0xOTgwMTU0MjU1LC0xODc2NTM0
+NzIsLTQ0MTMzMjc3NSwtMTI3MTI4MzU5NSw1OTMwMjI3NSw5MD
+Y2NDIxMTMsMjAyNTQ5NjA1NiwtNDQwMjA3MjU2LDEyMDAxNzYw
+MjBdfQ==
 -->

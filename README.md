@@ -69,7 +69,7 @@ Continued learning about State in React JS.
 <summary>
 
 ## 23 SEP 2023
-Exploring Electron JS and thinking to build a mini project in it. This project was earlier planned to be a GNOME Shell Extension, but because of lack of resources I think I will make it in Electron and ship it for all 
+Exploring Electron JS and thinking to build a mini project in it. This project was earlier planned to be a GNOME Shell Extension, but because of lack of resources I think I will make it in Electron and ship it for all Platforms.
 
 </summary>
 
@@ -102,9 +102,9 @@ Summary
 ____________________________________________
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwODMxOTMzOCw4NDc1MjQ5NzIsMTM1MD
-QyMTE4MCwxNDcwNjgwNjk2LDE5NTEyNzIwMzIsLTE5ODAxNTQy
-NTUsLTE4NzY1MzQ3MiwtNDQxMzMyNzc1LC0xMjcxMjgzNTk1LD
-U5MzAyMjc1LDkwNjY0MjExMywyMDI1NDk2MDU2LC00NDAyMDcy
-NTYsMTIwMDE3NjAyMF19
+eyJoaXN0b3J5IjpbLTE3ODU3MTYzNTYsODQ3NTI0OTcyLDEzNT
+A0MjExODAsMTQ3MDY4MDY5NiwxOTUxMjcyMDMyLC0xOTgwMTU0
+MjU1LC0xODc2NTM0NzIsLTQ0MTMzMjc3NSwtMTI3MTI4MzU5NS
+w1OTMwMjI3NSw5MDY2NDIxMTMsMjAyNTQ5NjA1NiwtNDQwMjA3
+MjU2LDEyMDAxNzYwMjBdfQ==
 -->

@@ -72,17 +72,9 @@ Continued learning about State in React JS.
 Exploring Electron JS and thinking to build a mini project in it. This project was earlier planned to be a GNOME Shell Extension, but because of lack of resources I think I will make it in Electron and ship it for all Platforms.
 
 </summary>
-
-**Group**
-- Learnings
-
 </details>
 
-<!-- 
-
-____________________________________________
-
-TEMPLATE OF LOG
+<!-- TEMPLATE OF LOG
 
 ____________________________________________
 
@@ -102,9 +94,9 @@ Summary
 ____________________________________________
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODU3MTYzNTYsODQ3NTI0OTcyLDEzNT
-A0MjExODAsMTQ3MDY4MDY5NiwxOTUxMjcyMDMyLC0xOTgwMTU0
-MjU1LC0xODc2NTM0NzIsLTQ0MTMzMjc3NSwtMTI3MTI4MzU5NS
-w1OTMwMjI3NSw5MDY2NDIxMTMsMjAyNTQ5NjA1NiwtNDQwMjA3
-MjU2LDEyMDAxNzYwMjBdfQ==
+eyJoaXN0b3J5IjpbLTM1ODcxNzQ0NSwtMTc4NTcxNjM1Niw4ND
+c1MjQ5NzIsMTM1MDQyMTE4MCwxNDcwNjgwNjk2LDE5NTEyNzIw
+MzIsLTE5ODAxNTQyNTUsLTE4NzY1MzQ3MiwtNDQxMzMyNzc1LC
+0xMjcxMjgzNTk1LDU5MzAyMjc1LDkwNjY0MjExMywyMDI1NDk2
+MDU2LC00NDAyMDcyNTYsMTIwMDE3NjAyMF19
 -->

@@ -74,6 +74,21 @@ Exploring Electron JS and thinking to build a mini project in it. This project w
 </summary>
 </details>
 
+
+<details>
+<summary>
+
+## 29 NOV 2023
+Such amazing things happened, I created an open source browser extension, My Web Shortcuts, and people are loving it!
+
+</summary>
+
+**Group**
+- Learnings
+
+</details>
+_______________
+
 <!-- TEMPLATE OF LOG
 
 ____________________________________________
@@ -94,9 +109,10 @@ Summary
 ____________________________________________
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODcxNzQ0NSwtMTc4NTcxNjM1Niw4ND
-c1MjQ5NzIsMTM1MDQyMTE4MCwxNDcwNjgwNjk2LDE5NTEyNzIw
-MzIsLTE5ODAxNTQyNTUsLTE4NzY1MzQ3MiwtNDQxMzMyNzc1LC
-0xMjcxMjgzNTk1LDU5MzAyMjc1LDkwNjY0MjExMywyMDI1NDk2
-MDU2LC00NDAyMDcyNTYsMTIwMDE3NjAyMF19
+eyJoaXN0b3J5IjpbLTE3MzMyNDk2ODgsLTM1ODcxNzQ0NSwtMT
+c4NTcxNjM1Niw4NDc1MjQ5NzIsMTM1MDQyMTE4MCwxNDcwNjgw
+Njk2LDE5NTEyNzIwMzIsLTE5ODAxNTQyNTUsLTE4NzY1MzQ3Mi
+wtNDQxMzMyNzc1LC0xMjcxMjgzNTk1LDU5MzAyMjc1LDkwNjY0
+MjExMywyMDI1NDk2MDU2LC00NDAyMDcyNTYsMTIwMDE3NjAyMF
+19
 -->
